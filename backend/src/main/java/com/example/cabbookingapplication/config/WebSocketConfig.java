@@ -18,7 +18,8 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
                 "http://localhost:5173",
                 "https://*.vercel.app"
             )
-            .withSockJS();
+            .withSockJS()
+            .setHeartbeatTime(25000);
     }
 
     @Override
