@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-sky-50 text-slate-700;
+}
