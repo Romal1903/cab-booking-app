@@ -104,6 +104,15 @@ EMAIL_PASSWORD=
 * Backend deployed using **Docker on Render**
 * Frontend deployed using **Vercel**
 
+## Live Demo
+
+Frontend:
+https://cab-booking-app-pi.vercel.app
+
+Backend API:
+https://cab-booking-backend-di7d.onrender.com
+
+
 ## Author
 
 Developed as a full-stack project for learning and portfolio purposes.
